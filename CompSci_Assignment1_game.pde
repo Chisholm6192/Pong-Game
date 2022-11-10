@@ -1,9 +1,8 @@
 /*
-Computer Science Assignment 1
-Resubmission
 Ryan Chisholm
 April 12th 2022
 Pong Game
+
 Full functioning AI
 Single player and Two player mode, can be changed in settings
 Live Scoreboard
@@ -12,11 +11,10 @@ Pause, Resume and Restart Functions
 Full functioning pause menu
 Adjustable AI difficulty
 
-Things added since last submisson:
+Things added since last update:
 Changeable control schemes, the changed controls are viewable in the settings menu,
 and the new controls for the pause, resume and restart functions are displayed at the
 top of the screen, as well as a new added quit game function, which ends the game.
-Previous Grade: 95
 */
 
 int screen = 0;//menu screen is default screen
